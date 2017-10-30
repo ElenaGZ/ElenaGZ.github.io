@@ -1,9 +1,11 @@
 
 body {
-      background-image: url(header.jpg);
+      background-image: url(header.jpg); 
+      background-repeat: no-repeat;
 }
 
 h1, p {
     color: black;
     font-family: OpenSans;
+    padding-left: 40px;
 }
