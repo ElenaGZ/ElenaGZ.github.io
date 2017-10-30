@@ -1,11 +1,12 @@
 
 body {
       background-image: url(header.jpg); 
-      background-repeat: no-repeat;
+      background-repeat: no-repeat; align-content: center;
 }
 
 h1, p {
     color: black;
     font-family: OpenSans;
-    padding-left: 40px;
+    padding-left: 50px;
+    padding-top: 50px;
 }
