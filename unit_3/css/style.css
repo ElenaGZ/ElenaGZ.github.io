@@ -8,9 +8,13 @@ h1, p {
     color: black;
     font-family: OpenSans;
     padding-left: 50px;
-    padding-top: 50px;
+    padding-top: 30px;
 }
 
 h1 {
-	font-size: 42px;
+	font-size: 72px;
+	}
+p {
+   font-size: 24px;
+
 	}
