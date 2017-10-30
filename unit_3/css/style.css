@@ -9,12 +9,16 @@ h1, p {
     font-family: OpenSans;
     padding-left: 50px;
     padding-top: 30px;
-    padding-right: 700px;
+    padding-right: 900px;
 }
 
 h1 {
 	font-size: 72px;
 	}
+h2 {
+    font-size: 24px;
+}
+
 p {
    font-size: 18px;
 
