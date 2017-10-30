@@ -1,8 +1,9 @@
 
 body {
-      background-image: url(../image/header.jpg);
+      background-image: url(header.jpg);
 }
 
 h1, p {
     color: black;
+    font-family: OpenSans;
 }
