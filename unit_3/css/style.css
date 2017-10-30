@@ -1,7 +1,8 @@
 
 body {
     background-color: white;
-    background-image: src("image/header.jpg");
+   body {
+    background-image:url:("image/header.jpg") fixed center;
 }
 
 h1, p {
