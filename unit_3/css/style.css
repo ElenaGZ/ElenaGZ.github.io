@@ -2,11 +2,9 @@
 body {
     background-color: white;
    body {
-    background-image:url("image/header.jpg") fixed center;
+      background-image : url('image/header.jpg') fixed center;
 }
 
 h1, p {
     color: black;
-
-
 }
