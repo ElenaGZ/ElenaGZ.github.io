@@ -7,8 +7,7 @@ body {
 h1, h2, p {
     color: black;
     font-family: OpenSans;
-    padding-left: 50px;
-    padding-top: 30px;
+    margin: 40px;
     padding-right: 1000px;
 }
 
@@ -20,6 +19,7 @@ h2 {
 }
 
 p {
-   font-size: 18px;
+   font-size: 16px;
+   line-height: 28px;
 
 	}
