@@ -4,7 +4,7 @@ body {
       background-repeat: no-repeat; align-content: center;
 }
 
-h1, p {
+h1, h2, p {
     color: black;
     font-family: OpenSans;
     padding-left: 50px;
