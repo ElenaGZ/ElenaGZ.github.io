@@ -1,8 +1,11 @@
 
 body {
     background-color: white;
+    background-image: src("image/header.jpg");
 }
 
 h1, p {
     color: black;
+
+
 }
