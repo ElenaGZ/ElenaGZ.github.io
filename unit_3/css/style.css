@@ -1,6 +1,6 @@
 
 body {
-      background-image: url(header.jpg); 
+      background-image: url(header2.jpg); 
       background-repeat: no-repeat; align-content: center;
 }
 
@@ -9,7 +9,7 @@ h1, p {
     font-family: OpenSans;
     padding-left: 50px;
     padding-top: 30px;
-    padding-right: 900px;
+    padding-right: 1000px;
 }
 
 h1 {
