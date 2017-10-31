@@ -1,6 +1,8 @@
 * { margin:0; padding:0; box-sizing:border-box; }
+@import url('https://fonts.googleapis.com/css?family=Poiret+One|Source+Serif+Pro');
+
 body {
-	font-family: helvetica, arial, sans-serif;
+	font-family: , arial, sans-serif;
 	font-size: 16px;
 	line-height: 1.5;
 }
@@ -8,6 +10,7 @@ section {
 	padding: 10em 0 10em 5em;
 }
 h1 {
+  font-family: Poiret One;
 	font-size: 72px;
 }
 h2 {
@@ -15,6 +18,7 @@ h2 {
     margin-bottom: 1em;
 }
 p {
+    font-family: Source Serif Pro;
     font-size: 16px;
     margin-bottom: 1em;
 }
