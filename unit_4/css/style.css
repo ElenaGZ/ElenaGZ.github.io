@@ -1,0 +1,30 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+
+body {
+	font-family: PT Serif, serif;
+	font-size: 16px;
+	line-height: 1.5;
+}
+section {
+	padding:5em 0;
+}
+h1 {
+  font-family: Helvetica, Arial;
+	font-size: 72px;
+}
+h2 {
+    font-size: 24px;
+    margin-bottom: 1em;
+}
+p {
+    font-size: 16px;
+    margin-bottom: 1em;
+}
+#intro {
+      background-image: url(header2.jpg);
+      background-repeat: no-repeat;
+      background-size:cover;
+      padding: 10em 0 10em 5em;
+      background-position: right;
+}
