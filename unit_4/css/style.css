@@ -1,6 +1,6 @@
 * { margin:0; padding:0; box-sizing:border-box; }
-@import url('https://fonts.googleapis.com/css?family=Poiret+One|Source+Serif+Pro');
-@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
+@import url(https://fonts.googleapis.com/css?family=Poiret+One|Source+Serif+Pro);
+@import url(https://fonts.googleapis.com/css?family=Julius+Sans+One);
 body {
 	font-family: Source Serif Pro, serif;
 	font-size: 16px;
