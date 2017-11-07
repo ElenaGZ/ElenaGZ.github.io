@@ -1,4 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Julius+Sans+One|Source+Serif+Pro);
+header {
+  padding-top: 0;
+}
 body {
 	font-family: Source Serif Pro, serif;
 	font-size: 16px;
@@ -52,7 +55,6 @@ p {
 } 
 span {
   font-size: 24px;
-  margin-bottom: 1em;
   border-bottom: 3px solid black;
   display: inline-block;
 }
