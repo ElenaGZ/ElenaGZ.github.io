@@ -24,6 +24,8 @@ h1 {
 h2 {
   font-size: 24px;
   margin-bottom: 1em;
+  border-bottom: 3px solid black;
+  display: inline-block;
 }
 p {
   font-family: Source Serif Pro, serif;
@@ -34,7 +36,7 @@ p {
   background-image: url(header2.jpg);
   background-repeat: no-repeat;
   background-size:cover;
-  padding: 0 0 10em 5em;
+  padding: 10em 0 10em 5em;
   background-position: right;
 }
 #about {
@@ -51,8 +53,9 @@ p {
   padding-bottom: 2em;
 } 
 span {
-  border-bottom: 3px solid black;
-  display: inline-block;
+  font-size: 24px;
+  margin-bottom: 1em;
+  border-bottom: none;
 }
 ul {
   list-style: none;
