@@ -53,7 +53,7 @@ p {
 }
 #Contact {
   padding-top: 2em;
-  padding-bottom: 2em;
+  padding-bottom: 5em;
 } 
 span {
   font-size: 24px;
@@ -65,7 +65,7 @@ ul {
 }
 footer {
   color: #ffffff;
-  padding: 2em 0 20px 5em;
+  padding: 2em 0 30px 5em;
   background: #242424;
   text-align: center;
 }
