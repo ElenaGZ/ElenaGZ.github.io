@@ -9,6 +9,8 @@ nav {
   color:#242424;
   font-family: Source Serif Pro, serif;
   text-align: right;
+  padding-right: 5em;
+  padding-top: 0;
 }
 section {
   padding: 0 0 0 5em;
