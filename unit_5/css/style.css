@@ -35,11 +35,13 @@ p {
       background-position: right;
 }
 footer {
+  font:white;
   padding: 0 0 15px 5em;
   border-bottom: 3px solid black;
-  display: inline-block;
-  background: blue;
+  background: #1F1634;
+  align-content: center;
 }
-#menu {
-     background: grey;
+#about {
+  background: grey;
+  padding-top: 10em;
 }
