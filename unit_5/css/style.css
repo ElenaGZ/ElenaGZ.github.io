@@ -42,15 +42,16 @@ p {
   padding-top: 2em;
   padding-bottom: 2em;
 }
-#contact {
+#Contact {
   padding-top: 2em;
   padding-bottom: 2em;
 } 
 span {
-  border-style: 0;
+  border-bottom: none;
 }
 footer {
   color: #ffffff;
   padding: 2em 0 20px 5em;
   background: #242424;
+  text-align: center;
 }
