@@ -38,10 +38,10 @@ footer {
   font:white;
   padding: 0 0 15px 5em;
   border-bottom: 3px solid black;
-  background: #1F1634;
+  background: #242424;
   align-content: center;
 }
 #about {
-  background: grey;
-  padding-top: 10em;
+  background: #EBEBEB;
+  padding-top: 2em;
 }
