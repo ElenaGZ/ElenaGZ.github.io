@@ -36,16 +36,15 @@ p {
 #menu {
   background: #EBEBEB;
 }
-}
-footer {
-  font-style: #ffffff;
-  padding: 5em 0 15px 5em;
-  background: #242424;
-  align-content: center;
-}
 span {
   border-style: 0;
 }
 #main {
   padding: 5em;
+}
+footer {
+  color: #ffffff;
+  padding: 5em 0 15px 5em;
+  background: #242424;
+  align-content: center;
 }
