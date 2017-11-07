@@ -10,7 +10,6 @@ nav {
 }
 section {
   padding: 0 0 0 10em;
-  background: grey;
 }
 h1 {
   font-family: Julius Sans One, sans-serif;
@@ -34,4 +33,10 @@ p {
       background-size:cover;
       padding: 10em 0 10em 5em;
       background-position: right;
+}
+footer {
+  padding: 0 0 15px 5em;
+}
+#menu {
+     background: grey;
 }
