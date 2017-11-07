@@ -8,8 +8,8 @@ body {
 nav {
   font-family: Source Serif Pro, serif;
 }
-section-about {
-	padding: 10em 0 10em 5em;
+section {
+  padding: 0 0 0 10em;
   background: grey;
 }
 h1 {
