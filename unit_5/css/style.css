@@ -35,16 +35,14 @@ p {
 }
 #menu {
   background: #EBEBEB;
+  padding-top: 5em;
+  padding-bottom: 5em;
 }
 span {
   border-style: 0;
 }
-#main {
-  padding: 5em;
-}
 footer {
   color: #ffffff;
-  padding: 5em 0 15px 5em;
+  padding: 2em 0 10px 5em;
   background: #242424;
-  align-content: center;
 }
