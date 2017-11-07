@@ -34,16 +34,15 @@ p {
       padding: 10em 0 10em 5em;
       background-position: right;
 }
-footer {
-  font: #ffffff
-  padding: 5em 0 15px 5em;
-  background: #242424;
-  align-content: center;
-}
 #about {
   padding: 2em 0 2em;
 }
 #menu {
   background: #EBEBEB;
-
+}
+footer {
+  font: #ffffff
+  padding: 5em 0 15px 5em;
+  background: #242424;
+  align-content: center;
 }
