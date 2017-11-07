@@ -36,7 +36,7 @@ p {
   background-image: url(header2.jpg);
   background-repeat: no-repeat;
   background-size:cover;
-  padding: 10em 0 10em 5em;
+  padding: 0 0 10em 5em;
   background-position: right;
 }
 #about {
