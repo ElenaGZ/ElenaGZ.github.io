@@ -51,6 +51,9 @@ p {
 span {
   border-bottom: none;
 }
+ul {
+  list-style: none;
+}
 footer {
   color: #ffffff;
   padding: 2em 0 20px 5em;
