@@ -20,6 +20,8 @@ h1 {
 h2 {
   font-size: 24px;
   margin-bottom: 1em;
+  border-bottom: 3px solid black;
+  display: inline-block;
 }
 p {
   font-family: Source Serif Pro, serif;
