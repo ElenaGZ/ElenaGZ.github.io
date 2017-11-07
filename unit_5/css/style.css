@@ -1,0 +1,36 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+@import url(https://fonts.googleapis.com/css?family=Julius+Sans+One|Source+Serif+Pro);
+body {
+	font-family: Source Serif Pro, serif;
+	font-size: 16px;
+	line-height: 1.5;
+}
+nav {
+  font-family: Source Serif Pro, serif;
+}
+section {
+	padding: 10em 0 10em 5em;
+}
+h1 {
+  font-family: Julius Sans One, sans-serif;
+  font-weight: lighter;
+	font-size: 72px;
+}
+h2 {
+    font-size: 24px;
+    margin-bottom: 1em;
+}
+p {
+    font-family: Source Serif Pro, serif;
+    font-size: 16px;
+    margin-bottom: 1em;
+
+
+}
+#intro {
+      background-image: url(header2.jpg);
+      background-repeat: no-repeat;
+      background-size:cover;
+      padding: 10em 0 10em 5em;
+      background-position: right;
+}
