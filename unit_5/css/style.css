@@ -9,7 +9,7 @@ nav {
   font-family: Source Serif Pro, serif;
 }
 section {
-  padding: 0 0 0 10em;
+  padding: 0 0 0 5em;
 }
 h1 {
   font-family: Julius Sans One, sans-serif;
@@ -35,10 +35,11 @@ p {
       background-position: right;
 }
 #about {
-  padding: 2em 0 2em;
+  padding: 2em 0 2em 5em;
 }
 #menu {
   background: #EBEBEB;
+}
 }
 footer {
   font: #ffffff
