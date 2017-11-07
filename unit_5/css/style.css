@@ -33,9 +33,6 @@ p {
   padding: 10em 0 10em 5em;
   background-position: right;
 }
-#about {
-  padding: 2em 0 2em 5em;
-}
 #menu {
   background: #EBEBEB;
 }
@@ -48,4 +45,7 @@ footer {
 }
 span {
   border-style: 0;
+}
+#main {
+  padding: 5em;
 }
