@@ -11,6 +11,8 @@ nav {
 }
 section {
   padding: 0 0 0 5em;
+  border-bottom: 3px solid black;
+  display: inline-block;
 }
 h1 {
   font-family: Julius Sans One, sans-serif;
@@ -32,8 +34,6 @@ p {
   background-size:cover;
   padding: 10em 0 10em 5em;
   background-position: right;
-  border-bottom: 3px solid black;
-  display: inline-block;
 }
 #about {
   padding-top: 2em;
