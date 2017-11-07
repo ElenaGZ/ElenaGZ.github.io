@@ -35,9 +35,8 @@ p {
       background-position: right;
 }
 footer {
-  font:white;
-  padding: 0 0 15px 5em;
-  border-bottom: 3px solid black;
+  font: #ffffff
+  padding: 5em 0 15px 5em;
   background: #242424;
   align-content: center;
 }
