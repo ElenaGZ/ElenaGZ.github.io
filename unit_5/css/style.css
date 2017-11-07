@@ -42,6 +42,9 @@ footer {
   align-content: center;
 }
 #about {
+  padding-top: 2em 0 2em;
+}
+#menu {
   background: #EBEBEB;
-  padding-top: 2em;
+
 }
