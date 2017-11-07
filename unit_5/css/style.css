@@ -33,7 +33,7 @@ p {
   margin-bottom: 1em;
 }
 #intro {
-  background-image: url(header2.jpg),padding-top:10em;
+  background-image: url(header2.jpg);
   background-repeat: no-repeat;
   background-size:cover;
   padding: 10em 0 10em 5em;
@@ -53,6 +53,8 @@ p {
   padding-bottom: 2em;
 } 
 span {
+  font-size: 24px;
+  margin-bottom: 1em;
   border-bottom: none;
 }
 ul {
