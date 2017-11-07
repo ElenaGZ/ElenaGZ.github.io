@@ -38,6 +38,7 @@ footer {
   padding: 0 0 15px 5em;
   border-bottom: 3px solid black;
   display: inline-block;
+  background: blue;
 }
 #menu {
      background: grey;
