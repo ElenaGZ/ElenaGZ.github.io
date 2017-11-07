@@ -33,16 +33,24 @@ p {
   padding: 10em 0 10em 5em;
   background-position: right;
 }
+#about {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}  
 #menu {
   background: #EBEBEB;
-  padding-top: 5em;
-  padding-bottom: 5em;
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
+#contact {
+  padding-top: 2em;
+  padding-bottom: 2em;
+} 
 span {
   border-style: 0;
 }
 footer {
   color: #ffffff;
-  padding: 2em 0 10px 5em;
+  padding: 2em 0 20px 5em;
   background: #242424;
 }
