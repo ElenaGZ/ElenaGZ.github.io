@@ -47,6 +47,7 @@ p {
 #wrapper {
   background-color: #EDEEF0;
   width:960px;
+  margin: auto;
 }
 #about {
   padding-top: 5em;
