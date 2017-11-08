@@ -73,4 +73,6 @@ footer {
   background: #242424;
   text-align: center;
   background-size: cover;
+  padding-top: 5em;
+  padding-bottom: 5em;
 }
