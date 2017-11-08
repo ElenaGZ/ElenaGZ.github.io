@@ -29,6 +29,7 @@ h1 {
 }
 h2 {
   font-size: 24px;
+  padding-bottom: 0;
 }
 p {
   font-family: Source Serif Pro, serif;
