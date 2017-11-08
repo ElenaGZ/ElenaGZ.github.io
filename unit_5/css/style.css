@@ -34,7 +34,8 @@ p {
   font-family: Source Serif Pro, serif;
   font-size: 16px;
   margin-bottom: 1em;
-  padding: 2em;
+  padding-top: 2em;
+  padding-top: 2em;
 }
 #intro {
   background-image: url(header2.jpg);
@@ -52,7 +53,7 @@ p {
   background: #EBEBEB;
   padding-top: 2em;
   padding-bottom: 2em;
-  width: 400px;
+  width: 600px;
 }
 #Opening {
   padding-top: 2em;
@@ -72,5 +73,6 @@ footer {
   color: #ffffff;
   padding: 2em 0 40px 5em;
   background: #242424;
+  background-position: left;
   text-align: center;
 }
