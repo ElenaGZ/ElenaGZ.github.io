@@ -56,7 +56,7 @@ p {
 }
 #reservations {
   padding-top: 2em;
-  padding-bottom: 2em;
+  padding-bottom: 10em;
   width: 600px;
 }
 span {
@@ -70,7 +70,6 @@ ul {
 }
 footer {
   color: #ffffff;
-  padding: 2em 0 40px 5em;
   background: #242424;
   background-position: left;
   text-align: center;
