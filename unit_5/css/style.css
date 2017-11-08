@@ -21,7 +21,6 @@ nav {
 }
 section {
   padding: 0 0 0 5em;
-  width: 400px;
 }
 h1 {
   font-family: Julius Sans One, sans-serif;
@@ -46,15 +45,18 @@ p {
 #about {
   padding-top: 5em;
   padding-bottom: 2em;
+  width: 400px;
 }  
 #menu {
   background: #EBEBEB;
   padding-top: 2em;
   padding-bottom: 2em;
+  width: 400px;
 }
-#Contact {
+#Opening {
   padding-top: 2em;
   padding-bottom: 5em;
+  width: 400px;
 } 
 span {
   font-size: 24px;
