@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css?family=Julius+Sans+One|Source+Serif+Pro);
+header {
+  padding-top: 0;
+}
+image {
+  padding: 10em 0 0em 5em; 
+}
+body {
+	font-family: Source Serif Pro, serif;
+	font-size: 16px;
+	line-height: 1.5;
+  color:#242424;
+}
+nav {
+  color:#242424;
+  font-family: Source Serif Pro, serif;
+  text-align: right;
+  padding-right: 8em;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+section {
+  padding: 0 0 0 5em;
+}
+h1 {
+  font-family: Julius Sans One, sans-serif;
+  font-weight: lighter;
+	font-size: 72px;
+}
+h2 {
+  font-size: 24px;
+  padding-bottom: 0;
+}
+p {
+  font-family: Source Serif Pro, serif;
+  font-size: 16px;
+  margin-bottom: 1em;
+  padding-top: 0;
+}
+#intro {
+  background-image: url(header2.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  padding: 10em 0 10em 5em;
+  background-position: right;
+}
+#about {
+  padding-top: 5em;
+  padding-bottom: 2em;
+  width: 600px;
+}  
+#menu {
+  padding-top: 2em;
+  padding-bottom: 0;
+  border-bottom: 0;
+  width: 600px;
+}
+#reservations {
+  padding-bottom: 6em;
+  padding-top: 0;
+  width: 600px;
+}
+span {
+  font-size: 24px;
+  border-bottom: 3px solid black;
+  display: inline-block;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+  padding-bottom: 2em;
+}
+footer {
+  color: #ffffff;
+  background: #242424;
+  text-align: center;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  width:100%;  
+  position:absolute;
+}
