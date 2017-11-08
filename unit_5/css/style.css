@@ -67,7 +67,7 @@ span {
 ul {
   list-style: none;
   padding-left: 0;
-  padding-bottom: 0;
+  padding-bottom: 2em;
 }
 footer {
   color: #ffffff;
