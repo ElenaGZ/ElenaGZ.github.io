@@ -51,12 +51,12 @@ p {
 }  
 #menu {
   padding-top: 2em;
-  padding-bottom: 3em;
+  padding-bottom: 2em;
   width: 600px;
 }
 #reservations {
-  padding-bottom: 8em;
-  padding-top: 0em;
+  padding-bottom: 7em;
+  padding-top: 0;
   width: 600px;
 }
 span {
