@@ -35,7 +35,7 @@ p {
   font-family: Source Serif Pro, serif;
   font-size: 16px;
   margin-bottom: 1em;
-  padding-top: 1em;
+  padding-top: 0;
 }
 #intro {
   background-image: url(header2.jpg);
