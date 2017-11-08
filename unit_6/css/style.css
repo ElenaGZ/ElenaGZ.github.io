@@ -44,6 +44,10 @@ p {
   padding: 10em 0 10em 5em;
   background-position: right;
 }
+#wrapper {
+  background-color: #EDEEF0;
+  width:960px;
+}
 #about {
   padding-top: 5em;
   padding-bottom: 2em;
