@@ -35,7 +35,7 @@ p {
   font-family: Source Serif Pro, serif;
   font-size: 16px;
   margin-bottom: 1em;
-  margin-color: #EDEEF0;
+  margin: #EDEEF0;
   padding-top: 0;
 }
 #intro {
@@ -47,7 +47,7 @@ p {
 }
 #wrapper {
   background-color: #ffffff;
-  width:1200px;
+  width:1500px;
   margin: auto;
 }
 #about {
