@@ -56,7 +56,7 @@ p {
 }
 #reservations {
   padding-bottom: 8em;
-  padding-top: 2em;
+  padding-top: 0em;
   width: 600px;
 }
 span {
