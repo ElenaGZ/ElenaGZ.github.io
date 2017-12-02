@@ -4,6 +4,7 @@ header {
 }
 image {
   padding: 10em 0 0em 5em; 
+  size: 100%
 }
 body {
 	font-family: Source Serif Pro, serif;
@@ -42,7 +43,7 @@ p {
 #intro {
   background-image: url(header2.jpg);
   background-repeat: no-repeat;
-  background-size:cover;
+  background-size: cover;
   padding: 10em 0 10em 5em;
   background-position: right;
 }
@@ -54,23 +55,18 @@ p {
 #about {
   padding-top: 5em;
   padding-bottom: 2em;
-  width: 600px;
+  width: 100%;
 }  
 #menu {
   padding-top: 2em;
   padding-bottom: 0;
   border-bottom: 0;
-  width: 600px;
+  width: 100%;
 }
 #reservations {
   padding-bottom: 6em;
   padding-top: 0;
-  width: 600px;
-}
-#two_column {
-    background-color: #FFB7CF;
-    border: 1px black solid;
-    padding: 20px;
+  width: 100%;
 }
 
 #left {
