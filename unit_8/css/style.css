@@ -26,6 +26,9 @@ nav {
 section {
   padding: 0 0 0 5em;
 }
+div {
+  border:0em;
+}
 h1 {
   font-family: Julius Sans One, sans-serif;
   font-weight: lighter;
