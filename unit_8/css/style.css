@@ -102,7 +102,7 @@ footer {
   nav a {
       margin: 0 1.6em .75em 0;
   }
-  img {
+  header {
     width: 320px;
   }
   #about {
@@ -131,7 +131,7 @@ footer {
   nav a {
     margin: 0 1em 1em;
   }
-  img {
+  header {
     width: 230px;
   }
   section, div {
