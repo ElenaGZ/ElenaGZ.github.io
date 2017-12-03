@@ -131,7 +131,6 @@ footer {
   }
   h1 {
     font-size: 32px;
-    padding: .6em;
     margin: auto;
   }
   h2 {
@@ -139,6 +138,11 @@ footer {
     padding: .6em;
     position: left;
     text-align: left;
+  }
+
+  p{
+    padding: .6em;
+
   }
   header {
     width: 100%;
