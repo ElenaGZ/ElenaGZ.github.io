@@ -134,8 +134,7 @@ footer {
     font-size: 44px;
     position: left;
     text-align: left;
-    padding-left: 0em;
-    border: 0em;
+    padding: 0em;
   }
   h2 {
     font-size: 18px;
@@ -170,4 +169,8 @@ footer {
     margin: auto;
     padding: 0em;
  }
+  #about {
+    padding-top: 5em;
+    padding-bottom: 2em;
+    width: 80%;
 }
