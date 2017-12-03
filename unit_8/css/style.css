@@ -99,11 +99,9 @@ footer {
   nav {
     float: none;
   }
-  nav a {
-      margin: 0 1.6em .75em 0;
-  }
+ 
   header {
-    width: 320px;
+    width: 100%;
   }
   #about {
     font-size: 1.4em;
@@ -128,11 +126,9 @@ footer {
     height: 2em;
     line-height: 2em;
   }
-  nav a {
-    margin: 0 1em 1em;
-  }
+
   header {
-    width: 230px;
+    width: 100%;
   }
   section, div {
     width: 100%;
