@@ -157,6 +157,7 @@ footer {
   }
   header {
     background-image: url(header_mobile.jpg);
+    background-image: 100%;
     width: 100%;
   }
   section, div {
