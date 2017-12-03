@@ -135,6 +135,7 @@ footer {
     font-size: 32px;
     position: left;
     text-align: left;
+    padding-left: 0em;
   }
   h2 {
     font-size: 22px;
