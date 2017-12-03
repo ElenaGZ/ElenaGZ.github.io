@@ -78,6 +78,7 @@ span {
   font-size: 24px;
   border-bottom: 3px solid black;
   display: inline-block;
+  padding-left: .6em;
 }
 ul {
   list-style: none;
@@ -142,7 +143,6 @@ footer {
 
   p{
     padding: .6em;
-
   }
   header {
     width: 100%;
