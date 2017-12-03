@@ -118,6 +118,7 @@ footer {
   }
   img {
     padding: .6em;
+    padding-left: 0em;
   }
    div {
     position: left;
@@ -133,6 +134,7 @@ footer {
     background-image: url(header_tablet.jpg);
     background-image: 100%;
     width: 100%;
+    padding-left: 2em;
   }
     section, div {
     width: 100%;
