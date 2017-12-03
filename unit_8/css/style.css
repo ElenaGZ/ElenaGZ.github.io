@@ -59,12 +59,12 @@ p {
 #menu {
   padding-top: 2em;
   padding-bottom: 0;
-  border-bottom: 0;
+  border-bottom: 2em;
   width: 100%;
 }
 #reservations {
   padding-bottom: 6em;
-  padding-top: 0em;
+  padding-top: 2em;
   width: 100%;
 }
 .clearfix:after {
