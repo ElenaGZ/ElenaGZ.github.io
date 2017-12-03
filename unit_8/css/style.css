@@ -106,13 +106,13 @@ footer {
     position: left;
   } 
   h1 {
-  font-size: 64px;
+    font-size: 64px;
     position: left;
     text-align: left;
     padding-top: 1em;
   }
   h2 {
-  font-size: 18px;
+    font-size: 18px;
     align-content: center;
     padding: 0em;
   }
@@ -194,6 +194,7 @@ footer {
     background-image: url(header_mobile.jpg);
     background-image: 100%;
     width: 100%;
+    padding-left: 0em;
   }
   section, div {
     width: 100%;
