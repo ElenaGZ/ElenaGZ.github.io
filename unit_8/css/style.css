@@ -104,10 +104,12 @@ footer {
     position: left;
   } 
   h1 {
-   font-family: Julius Sans One, sans-serif;
-   font-weight: lighter;
-   font-size: 48px;
-   padding: .6em;
+    font-family: Julius Sans One, sans-serif;
+    font-weight: lighter;
+    font-size: 48px;
+    padding: .6em;
+    position: left;
+    text-align: left;
   }
   h2 {
   font-size: 24px;
