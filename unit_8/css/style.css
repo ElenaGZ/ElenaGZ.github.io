@@ -96,7 +96,18 @@ footer {
   nav {
     float: none;
     padding: .6em;
+    position: left;
   } 
+  h1 {
+  font-family: Julius Sans One, sans-serif;
+  font-weight: lighter;
+  font-size: 48px;
+  padding: .6em;
+  }
+  h2 {
+  font-size: 24px;
+  padding: .6em;
+  }
   header {
     width: 100%;
     padding: .6em;
@@ -109,6 +120,14 @@ footer {
   h1, nav {
   display: block;
   text-align: center;
+  padding: .6em;
+  }
+    h1 {
+  font-size: 32px;
+  padding: .6em;
+  }
+  h2 {
+  font-size: 22px;
   padding: .6em;
   }
   header {
