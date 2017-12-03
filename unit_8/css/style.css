@@ -4,7 +4,6 @@ header {
   size: 100%;
 }
 image {
-  padding: 10em 0 0em 5em; 
   size: 100%;
 }
 body {
@@ -69,7 +68,6 @@ p {
   padding-top: 0;
   width: 100%;
 }
-
 .clearfix:after {
     visibility: hidden;
     display: block;
