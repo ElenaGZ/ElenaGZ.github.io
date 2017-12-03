@@ -31,7 +31,7 @@ h1 {
   font-family: Julius Sans One, sans-serif;
   font-weight: lighter;
 	font-size: 72px;
-  padding-top: 2em;
+  padding-top: 1em;
   margin: 0;
 }
 h2 {
@@ -109,7 +109,7 @@ footer {
   font-size: 64px;
     position: left;
     text-align: left;
-    padding: 0em;
+    padding-top: 1em;
   }
   h2 {
   font-size: 18px;
@@ -167,7 +167,7 @@ footer {
     font-size: 44px;
     position: left;
     text-align: left;
-    padding: 0em;
+    padding-top: 1em;
     border: 0em;
   }
   h2 {
