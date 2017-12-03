@@ -149,6 +149,8 @@ footer {
   }
   span {
     padding-left: none;
+    position: left;
+    text-align: left;
   }
   header {
     width: 100%;
