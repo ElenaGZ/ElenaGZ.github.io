@@ -173,4 +173,8 @@ footer {
     margin: auto;
     padding: 0em;
  }
+ footer {
+    align-content: center;
+
+ }
 }
