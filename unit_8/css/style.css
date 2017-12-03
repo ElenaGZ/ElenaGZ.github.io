@@ -5,6 +5,9 @@ header {
 image {
   size: 100%;
 }
+header {
+  background-image: url(header2.jpg);
+}
 body {
 	font-family: Source Serif Pro, serif;
 	font-size: 16px;
