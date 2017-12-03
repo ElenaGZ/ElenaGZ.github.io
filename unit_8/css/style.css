@@ -129,11 +129,10 @@ footer {
     position: left;
     text-align: left;
   }
-    h1 {
+  h1 {
     font-size: 32px;
     padding: .6em;
-    position: left;
-    text-align: left;
+    margin: auto;
   }
   h2 {
     font-size: 22px;
