@@ -151,6 +151,7 @@ footer {
   }
   div {
     position: left;
+    padding-left: 0em;
   }
   span {
     padding-left: none;
