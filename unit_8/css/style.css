@@ -99,10 +99,15 @@ footer {
   header {
     width: 100%;
   }
+  section {
+    width: 100%;
+    padding: .6em;
+  }
 @media only screen and (max-width: 480px) {
   h1, nav {
   display: block;
   text-align: center;
+  padding: 0 0 0 5em;
   }
   header {
     width: 100%;
