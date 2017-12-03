@@ -143,8 +143,11 @@ footer {
   }
   div {
     padding-left: .6em;
+    position: left;
   }
-
+  span {
+    padding-left: 0;
+  }
   header {
     width: 100%;
   }
