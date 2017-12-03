@@ -2,6 +2,7 @@
 header {
   size: 100%;
   background-image: url(header2.jpg);
+  background-repeat: no-repeat;
 }
 image {
   padding-left: 5em;
@@ -41,11 +42,7 @@ p {
   padding-top: 0;
 }
 #intro {
-  background-image: url(header2.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   padding: 0em 0 10em 5em;
-  background-position: right;
 }
 #wrapper {
   background-color: #ffffff;
