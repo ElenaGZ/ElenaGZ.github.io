@@ -96,6 +96,7 @@ footer {
   nav {
     float: none;
     padding: .6em;
+    text-align: left;
     position: left;
   } 
   h1 {
@@ -119,7 +120,7 @@ footer {
 @media only screen and (max-width: 480px) {
   h1, nav {
   display: block;
-  text-align: center;
+  text-align: left;
   padding: .6em;
   }
     h1 {
