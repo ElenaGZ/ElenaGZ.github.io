@@ -141,6 +141,7 @@ footer {
     font-size: 22px;
     position: left;
     text-align: left;
+    padding-left: 0em;
   }
   div {
     padding-left: .6em;
