@@ -46,7 +46,9 @@ p {
   margin: #EDEEF0;
   padding-top: 0;
 }
-
+#intro {
+  padding: 0em 0 10em 5em;
+}
 #wrapper {
   background-color: #ffffff;
   width: 100%;
