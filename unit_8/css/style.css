@@ -162,6 +162,12 @@ footer {
     padding: .6em;
   }
   #intro {
-  padding: 0em 0 0em 0em;
+    padding: 0em 0 0em 0em;
   }
+  #wrapper {
+    background-color: #ffffff;
+    width: 100%;
+    margin: auto;
+    padding: 0em;
+ }
 }
