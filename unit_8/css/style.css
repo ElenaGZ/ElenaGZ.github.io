@@ -1,12 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Julius+Sans+One|Source+Serif+Pro);
 header {
   size: 100%;
+  background-image: url(header2.jpg);
+
 }
 image {
   size: 100%;
-}
-header {
-  background-image: url(header2.jpg);
 }
 body {
 	font-family: Source Serif Pro, serif;
