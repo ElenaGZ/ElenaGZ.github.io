@@ -3,12 +3,10 @@ header {
   size: 100%;
   background-image: url(header2.jpg);
   background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: right;
 }
 img {
-  padding-top: 5em;
   padding-left: 5em;
+  padding-top: 2em;
 }
 body {
 	font-family: Source Serif Pro, serif;
