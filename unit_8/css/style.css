@@ -144,6 +144,8 @@ footer {
     text-align: left;
     padding-left: 0em;
     border: 0em;
+    align-content: center;
+
   }
   div {
     position: left;
@@ -171,9 +173,5 @@ footer {
     width: 100%;
     margin: auto;
     padding: 0em;
- }
- footer {
-    align-content: center;
-
  }
 }
