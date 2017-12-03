@@ -91,7 +91,8 @@ footer {
   text-align: center;
   padding-top: 3em;
   padding-bottom: 3em;
-  size: 100%;align-content: 
+  size: 100%;
+  align-content: center;
 }
 @media only screen and (max-width: 800px) {
   header {
