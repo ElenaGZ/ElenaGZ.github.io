@@ -95,9 +95,11 @@ footer {
 @media only screen and (max-width: 800px) {
   nav {
     float: none;
+    padding: .6em;
   } 
   header {
     width: 100%;
+    padding: .6em;
   }
   section {
     width: 100%;
@@ -107,10 +109,11 @@ footer {
   h1, nav {
   display: block;
   text-align: center;
-  padding: 0 0 0 5em;
+  padding: .6em;
   }
   header {
     width: 100%;
+    padding: .6em;
   }
   section, div {
     width: 100%;
