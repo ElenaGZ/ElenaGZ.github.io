@@ -150,6 +150,7 @@ footer {
     padding-left: none;
     position: left;
     text-align: left;
+    align-content: left;
   }
   header {
     background-image: url(header_mobile.jpg);
