@@ -173,6 +173,9 @@ footer {
     align-content: center;
     padding: 0em;
   }
+  img {
+    padding-left: 0em;
+  }
   div {
     position: left;
     padding: 0em;
